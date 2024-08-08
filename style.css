@@ -36,6 +36,7 @@ body {
     background-size: cover;
     display: inline-block;
     transition: 0.5s;
+    
 }
 
 
@@ -71,6 +72,7 @@ body {
 .slide .item:nth-child(2) .content {
     display: block;
 }
+
 .item .content {
     position: absolute;
     top: 50%;
@@ -242,8 +244,8 @@ body {
 .video-container {
     position: fixed;
     top: 6.8vw;
-    right: 7vw;
-    width: 35.3vw;
+    right: 9vw;
+    width: 32.941vw;
     height: 10.417vw;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
